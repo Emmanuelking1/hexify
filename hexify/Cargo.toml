@@ -1,0 +1,13 @@
+[package]
+name = "hexify"
+version = "0.1.0"
+edition = "2021"
+description = "A dependency-free CLI tool to convert text to hexadecimal and back"
+license = "MIT"
+authors = ["Emmanuel King <imaduemmanuel191@gmail.com>"]
+
+[dependencies]
+# Intentionally empty to ensure no dependencies
+repository = "https://github.com/Emmanuelking1/hexify"
+homepage = "https://github.com/Emmanuelking1/hexify"
+documentation = "https://docs.rs/hexify"
